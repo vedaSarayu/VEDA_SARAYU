@@ -1,0 +1,165 @@
+* { /* Reset the space of the webpage */
+   margin: 0px;
+   padding: 0px;
+}
+
+body {
+ background-color:#F5f5f5 ; 
+}
+
+/* STYLE TEXT */
+
+h1 {
+  color: ;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+/* Style the header */
+header {
+  background-color: #252627 ;
+  padding: 30px;
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  height: 35px;
+}
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+/*TODO: Add a background color or image to your website*/
+
+
+/*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
+/*Navbar styling*/
+ul {
+  list-style-type: none;
+  background-color: #FF6961;
+  padding: 20px;
+  text-align: right;
+}
+li {
+  display: inline;
+  font-family: 'Caveat', sans-serif;
+  font-weight: bold;
+}
+li a{
+  color: white;
+  text-decoration: none;
+  font-size: 18px; 
+  font-weight: bold; 
+  position: relative;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 12px;
+  padding-left:12px;
+}
+
+li a:hover {
+    background-color: #blue;
+  
+} 
+footer {
+  height: 100px;
+  background: #EC5B6C;
+  font-size:25px;
+  padding-top:10x;
+  margin-top:50px;
+  padding-left:20px;
+  font-color: #FFFFFF;
+}
+
+#font {
+  font-color: #FFFFFF;
+}
+
+h2 {
+  align:center;  
+}
+header{
+   style="background-image: 'assets/backgroundimg.jpg');"
+
+}
+p {
+  padding: 100px;
+  font-size: 20px;
+  background-color:;
+}  
+h5{
+  font-size: 20px;
+}
+h3 {
+  font-size: 50px;
+  color: black;
+  /*background-color:lightpink;*/
+   font-style: italic;
+
+  
+  
+}
+div.quote {
+  align: right
+}
+#quote {
+  padding-left:300px;
+  padding-top:50px;
+  
+}
+#edu{
+    padding-left:600px;
+}
+#bcg{
+  padding-left: 630px;
+  
+}
+body{
+  /*how to create a gradient background:
+  https://www.w3schools.com/css/css3_gradients.asp*/
+  background-color: linear-gradient(to right, #F5F5F5, #lightcoral);
+}
+
+
+
+
+
+
+/* STYLE IMAGES */
+
+/* STYLE NAV BAR */
+
+/* STYLE BUTTONS */
+
+/* ADD MORE! */
+
+/* Style P! */
+img{
+  padding-left: 50
+}
+
+div.scriptQues{
+  background-color:#FF6961;
+  color:white;
+}
+
+button{
+  background-color:#252627;
+  color:white;
+  padding-top: 10px;
+  padding-right: 52px;
+  padding-bottom: 10px;
+  padding-left: 50px;
+ 
+}
+button:hover{
+    background-color:#lightcoral;
+}
+
+h4 {
+  font-size: 25px;
+  color: #FF6961
+}
